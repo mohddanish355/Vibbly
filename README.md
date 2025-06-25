@@ -1,5 +1,6 @@
-###Vibbly 💬
-##A real-time chat web application that connects users instantly. Built for speed, responsiveness, and an interactive messaging experience.
+### Vibbly 💬
+
+## A real-time chat web application that connects users instantly. Built for speed, responsiveness, and an interactive messaging experience.
 
 Check out the live version of the app here: https://vibbly-wheat.vercel.app
 
