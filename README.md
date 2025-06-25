@@ -1,10 +1,10 @@
-### Vibbly 💬
+# Vibbly 💬
 
-## A real-time chat web application that connects users instantly. Built for speed, responsiveness, and an interactive messaging experience.
+### A real-time chat web application that connects users instantly. Built for speed, responsiveness, and an interactive messaging experience.
 
 Check out the live version of the app here: https://vibbly-wheat.vercel.app
 
-# Features
+## Features
 
 🔴 Real-time messaging with Socket.IO
 
@@ -16,12 +16,12 @@ Check out the live version of the app here: https://vibbly-wheat.vercel.app
 
 🎨 Clean, responsive UI
 
-# Tech Stack
+## Tech Stack
 
-Backend | Node.js, Express, Socket.IO, Cloudinary
+Backend: Node.js, Express, Socket.IO, Cloudinary
 
-Frontend | HTML5, CSS3, JavaScript, React
+Frontend: HTML5, CSS3, JavaScript, React
 
-Database | MongoDB
+Database: MongoDB
 
-Auth | JWT
+Auth: JWT
