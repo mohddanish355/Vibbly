@@ -4,7 +4,8 @@
 
 Check out the live version of the app here: https://vibbly-wheat.vercel.app
 
-Features
+# Features
+
 🔴 Real-time messaging with Socket.IO
 
 👥 User presence indicators (online/offline)
@@ -15,11 +16,12 @@ Features
 
 🎨 Clean, responsive UI
 
-Tech Stack
-Backend: Node.js, Express, Socket.IO, Cloudinary
+# Tech Stack
 
-Frontend: HTML5, CSS3, JavaScript, React
+Backend | Node.js, Express, Socket.IO, Cloudinary
 
-Database: MongoDB
+Frontend | HTML5, CSS3, JavaScript, React
 
-Auth: JWT
+Database | MongoDB
+
+Auth | JWT
